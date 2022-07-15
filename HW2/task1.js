@@ -82,9 +82,7 @@ const users = [
     },
 ];
 
-// console.log(users[0].firstName)
 
-//09.10.2021 и 10.10.2021  проверять каждый следующий массив и выводить в консоль
 
 let findPeople = function() {
  
